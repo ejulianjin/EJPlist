@@ -11,13 +11,13 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://wx.ehousechina.com/TestOne.ipa</string>
+<string>http://wx.ehousechina.com/HelloWorld.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.ehousechina.hello</string>
+<string>com.example.hello</string>
 <key>bundle-version</key>
 <string>0.0.1</string>
 <key>kind</key>
